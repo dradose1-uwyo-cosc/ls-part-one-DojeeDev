@@ -1,12 +1,7 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Ivan Martin]
+## [Assignment 3]
+## [Submission date: 02/27/26]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* [https://pkg.go.dev](https://pkg.go.dev)
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* none known
